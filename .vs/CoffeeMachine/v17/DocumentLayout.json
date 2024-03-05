@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\models\\weathermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\weathermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF658E-C86B-4CE3-B2F7-CE445C18FBA8}|CoffeeMachine.UnitTests\\CoffeeMachine.UnitTests.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine.unittests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF658E-C86B-4CE3-B2F7-CE445C18FBA8}|CoffeeMachine.UnitTests\\CoffeeMachine.UnitTests.csproj|solutionrelative:coffeemachine.unittests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\interfaces\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\interfaces\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\admin\\source\\repos\\coffeemachine\\coffeemachine\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893B2205-343A-4C33-980B-6BACEDB435EA}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeMachine\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\appsettings.json",
+              "RelativeToolTip": "CoffeeMachine\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T00:53:00.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherMain.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\WeatherMain.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\WeatherMain.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\WeatherMain.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\WeatherMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:31:07.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\Weather.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Weather.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\Weather.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:29:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Services\\WeatherService.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:05:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Interfaces\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Interfaces\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Interfaces\\IWeatherService.cs",
+              "RelativeToolTip": "CoffeeMachine\\Interfaces\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:03:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Program.cs",
+              "RelativeToolTip": "CoffeeMachine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T23:49:08.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Models\\Response.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:54:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTests\\ControllerTests.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.UnitTests\\ControllerTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTests\\ControllerTests.cs",
+              "RelativeToolTip": "CoffeeMachine.UnitTests\\ControllerTests.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:04:54.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoffeeMachineController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Controllers\\CoffeeMachineController.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Controllers\\CoffeeMachineController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoffeeMachine\\CoffeeMachine\\Controllers\\CoffeeMachineController.cs",
+              "RelativeToolTip": "CoffeeMachine\\Controllers\\CoffeeMachineController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:17:32.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

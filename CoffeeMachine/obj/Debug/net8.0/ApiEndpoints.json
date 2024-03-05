@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CoffeeMachine.Controllers.CoffeeMachineController",
+    "Method": "BrewCoffee",
+    "RelativePath": "CoffeeMachine/brew-coffee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
